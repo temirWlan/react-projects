@@ -1,0 +1,14 @@
+.container {
+	margin:0;
+   display:flex;
+   align-items:center;
+   overflow-y:hidden;
+}
+
+.poly {
+	stroke-linejoin:miter; 
+	stroke:black; 
+	stroke-width:5; 
+	fill: red;
+	border: 1px solid #000;
+}
